@@ -1,0 +1,29 @@
+# Ignorar carpetas pesadas
+assemblies/
+binning/
+binning_res/
+bins_final/
+checkm_out/
+gtdbtk_out/
+kraken2_results/
+#krona/
+mapping/
+trimmed-reads/
+
+# Entornos y cachés
+envs/
+*.egg-info/
+__pycache__/
+*.pyc
+
+# Archivos ocultos de sistema/editor
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# Salidas temporales
+*.log
+*.tmp
+*.bak
+
