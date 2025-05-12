@@ -6,7 +6,7 @@ bins_final/
 checkm_out/
 gtdbtk_out/
 kraken2_results/
-#krona/
+krona/
 mapping/
 trimmed-reads/
 
