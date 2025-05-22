@@ -5,6 +5,8 @@ binning_res/
 bins_final/
 checkm_out/
 gtdbtk_out/
+kraken2_results_with_host/
+host_removed/
 kraken2_results/
 krona/
 mapping/
